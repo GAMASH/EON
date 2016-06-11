@@ -19,9 +19,9 @@ public class ArticuloSucursalPanel extends javax.swing.JPanel {
      * Creates new form ArticuloSucursal
      */
     public ArticuloSucursalPanel() {
-        articuloSucursal = new ArticuloSucursal();
+        
         initComponents();
-        //nada 
+        articuloSucursal = new ArticuloSucursal();        
     }
     
     public void setArticuloSucursal(ArticuloSucursal AarticuloSucursal){
