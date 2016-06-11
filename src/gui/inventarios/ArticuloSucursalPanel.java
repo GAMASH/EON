@@ -21,6 +21,7 @@ public class ArticuloSucursalPanel extends javax.swing.JPanel {
     public ArticuloSucursalPanel() {
         initComponents();
         articuloSucursal = new ArticuloSucursal();
+        //nada
     }
     
     public void setArticuloSucursal(ArticuloSucursal AarticuloSucursal){
